@@ -1,0 +1,17 @@
+[
+  {
+    "name" : "Iphone 13",
+    "price" : "1089 €",
+    "description":"Le nouveau téléphone made in Apple"
+  },
+  {
+    "name" : "MacBook Air 2020 M1 256 Gb",
+    "price" : "1129 €",
+    "description":"Le nouvel ordinateur made in Apple"
+  },
+  {
+    "name" : "Apple Watch 7",
+    "price" : "459 €",
+    "description":"La nouvelle montre made in Apple"
+  }
+]
