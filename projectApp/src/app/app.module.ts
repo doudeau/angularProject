@@ -10,6 +10,8 @@ import { ProductsListComponent } from './products-list/products-list.component';
 import { UserDetailComponent } from './user-detail/user-detail.component';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { FormsModule } from '@angular/forms';
+import { ProductDetailComponent } from './product-detail/product-detail.component';
+import { OrderDetailComponent } from './order-detail/order-detail.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { FormsModule } from '@angular/forms';
     UsersListComponent,
     OrdersListComponent,
     ProductsListComponent,
-    UserDetailComponent
+    UserDetailComponent,
+    ProductDetailComponent,
+    OrderDetailComponent
   ],
   imports: [
     BrowserModule,
